@@ -4,7 +4,7 @@ Use the Symfony Workflow component in Laravel
 
 ### Installation
 
-    composer require brexis/laravel-workflow
+    composer require stdioh/laravel-workflow
 
 #### For laravel <= 5.4
 
